@@ -31,8 +31,9 @@ This tool tries to helps you recover that information using Discord’s local af
 
    Lists are sorted **best match first**.  
    (Example: `mostLikelyToVc_uidQueryFormat` shows the most frequent VC partner at the top and least frequent at the bottom.)
+<img width="1059" height="109" alt="image" src="https://github.com/user-attachments/assets/e3dca39f-b063-4445-bc0e-2d8e07248c73" />
 
-6. Copy the list of user ids and paste it into Discord to mention/display each user and try to search for them.
+6. Copy the list of user ids and paste it into Discord to mention/display each user and try to search for them (delete some text if it exceeds message limit).
 
 7. If you see **@unknown-user**, read the section below.
 
