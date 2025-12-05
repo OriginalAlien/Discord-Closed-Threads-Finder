@@ -25,7 +25,7 @@ function buildRankedLists(rankKey) {
         .sort((a, b) => formattedUserAffinities[a][rankKey] - formattedUserAffinities[b][rankKey])
         .map(userId => ({ userId, ...formattedUserAffinities[userId] }));
 
-    const formatted = sorted.map(u => `<@${u.userId}> | isFriend: ${u.isFriend}`);
+    const formatted = sorted.map(u => `<@${u.userId}> | isFriend: ${u.isFriend} | userId: ${u.userId}`);
     return { sorted, formatted };
 }
 
