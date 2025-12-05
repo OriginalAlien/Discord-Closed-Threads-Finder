@@ -95,5 +95,5 @@ and thanks to chatgpt for generating this <3
 
 Tags (ignore)  
 <sub> 
-discord, discord dm, discord closed dm, discord closed thread, discord user lookup, discord user recovery, discord id finder, discord affinity, discord cache, discord localstorage, discord dm history, discord contact finder, discord friend finder, discord utility, discord web tool, discord javascript 
+discord, discord dm, discord closed dm, discord closed thread, discord user lookup, discord user recovery, discord id finder, discord affinity, discord cache, discord localstorage, discord dm history, discord contact finder, discord friend finder, discord utility, discord web tool, discord javascript, closed Discord direct messages, closed Discord messages, Discord user recovery, Discord user finder, discord message finder
 </sub>
