@@ -32,7 +32,7 @@ This tool helps you recover that information using Discord’s local affinity ca
    Lists are sorted **best match first**.  
    (Example: `mostLikelyToVc_uidQueryFormat` shows the most frequent VC partner at the top.)
 
-6. Copy the list and paste it into Discord to mention each user and try to search for them.
+6. Copy the list of user ids and paste it into Discord to mention/display each user and try to search for them.
 
 7. If you see **@unknown-user**, read the section below.
 
