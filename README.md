@@ -46,6 +46,7 @@ You can still look them up using online tools such as:
 * [VaultCord](https://vaultcord.com/tools/discord-id-lookup) -- Only one up as of now *
 * [GateCord](https://gatecord.com/discord-id-lookup/)
 * [discord.id](http://discord.id/)
+* [discordlookup](https://discordlookup.com/)
 * [Toolscord](https://toolscord.com/)
 
 If these tools don’t work, you can also:
