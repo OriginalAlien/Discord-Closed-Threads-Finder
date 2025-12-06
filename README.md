@@ -1,8 +1,7 @@
 # About
 
 Closed a DM with a long-forgotten friend and can’t remember their username or user ID or blocked them?  
-This tool tries to helps you recover that information using Discord’s local affinity cache.
-
+This tool tries to helps you recover that information using Discord’s local affinity cache, which personally worked for me.
 ---
 
 ## Notes
@@ -33,7 +32,7 @@ This tool tries to helps you recover that information using Discord’s local af
    (Example: `mostLikelyToVc_uidQueryFormat` shows the most frequent VC partner at the top and least frequent at the bottom.)
 <img width="1059" height="109" alt="image" src="https://github.com/user-attachments/assets/e3dca39f-b063-4445-bc0e-2d8e07248c73" />
 
-6. Copy the list of formatted user ids and paste it into a Discord channel to mention/display them and search for them (delete some text if message limit exceeds).  
+6. Expand/collapse the array and copy the list of formatted user ids and paste it into a Discord channel to mention/display them and search for them (delete some text if message limit exceeds).  
 <sub>Example of formatted user id in order to mention them: `<@USERID>`</sub>
 
 7. If you see **@unknown-user**, read the section below.
